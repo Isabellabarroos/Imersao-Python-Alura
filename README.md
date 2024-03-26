@@ -1,4 +1,4 @@
-## Imersao Python Alura
+## Imersão Python Alura
 
 Durante a Imersão Python: Do Excel à Análise de Dados da Alura, são cinco dias de aula ensinando como utilizar planilhas para análise de dados.
 
@@ -15,10 +15,10 @@ O desafio da aula 1 foi composto por:
 - Fazer os cálculos com as colunas de porcentagem (variação semanal; mensal; anual e 12 meses (variação 12 meses e anual são diferentes);
 - Coletar via Chat GPT as faixas de idade de cada empresa, vale ressaltar que, são idades fictícias para demonstração  criadas pelo próprio Chat Gpt;
 - Pedir para o GPT gerar a fórmula de condição SE para as faixas de idade da empresa, gerando 4 faixas de idade:
-1- Jovens: Empresas com menos de 10 anos.
-2- Adultas Jovens: Empresas com 10 a 30 anos.
-3- Adultas: Empresas com 31 a 70 anos.
-4- Antigas: Empresas com mais de 70 anos. 
+- Jovens: Empresas com menos de 10 anos;
+- Adultas Jovens: Empresas com 10 a 30 anos;
+- Adultas: Empresas com 31 a 70 anos;
+- Antigas: Empresas com mais de 70 anos. 
 
 https://chat.openai.com/share/d50b342c-4a24-4f8c-8b96-4fd959ecf3e9
 
