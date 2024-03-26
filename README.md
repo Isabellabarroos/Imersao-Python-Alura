@@ -22,12 +22,25 @@ O desafio da aula 1 foi composto por:
 
 https://chat.openai.com/share/d50b342c-4a24-4f8c-8b96-4fd959ecf3e9
 
-Aula 02 - 
+Aula 02 - Nesta aula, foi ensinado:
+- Como gerar tabelas e cálculos de estatísticas, utilizando as fórmulas (Média/MédiaSe, Se, SomaSe/SomaSes, Unique, Cont.Se);
+- Criando gráficos no Google Sheets (utilizei os gráficos pizza, barra e cascata);
+- Conhecendo o Google Colab;
+- Iniciando a manipulação de dados em Python Panda;
 
+O desafio da aula 2 foi composto por:
 
-## Ferramentas utilizadas:
+- Criar um gráfico utilizando a faixa etária e o valor da variação;
+- Criar outro gráfico contendo a faixa etária e a quantidade de empresas que estão em cada faixa etária;
+- Explorar os tipos de gráficos com os dados já feito.
+
+## O que foi utilizado:
 - Google Sheets;
 - GitHub;
+- Chat GPT 3.5;
+- Google Colab;
+- Python (Biblioteca Pandas);
+
 
   
 ---
