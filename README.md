@@ -33,4 +33,4 @@ Aula 02 -
 ---
 ## Criado por:
 
-[<img src="https://avatars.githubusercontent.com/u/81197504?v=4" width=115><br><sub>Isabella Barros</sub>]([https://www.linkedin.com/in/isabella-barros-b38ba6135/])
+[<img src="https://avatars.githubusercontent.com/u/81197504?v=4" width=115><br><sub>Isabella Barros</sub>](https://www.linkedin.com/in/isabella-barros-b38ba6135/)
